@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "178154185923",
+    "firebase_url": "https://weatherly-app-dc592-default-rtdb.firebaseio.com",
+    "project_id": "weatherly-app-dc592",
+    "storage_bucket": "weatherly-app-dc592.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178154185923:android:b72a72696f5504bf416e76",
+        "android_client_info": {
+          "package_name": "com.example.wearherly_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fkfQfj5noEJLtnCbuVcNGsOc9wDzA6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178154185923:android:ecf5bcb40ccfeed0416e76",
+        "android_client_info": {
+          "package_name": "com.example.weatherly_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fkfQfj5noEJLtnCbuVcNGsOc9wDzA6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
